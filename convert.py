@@ -1,6 +1,6 @@
 # convert.py
 # A program to convert temperature in degrees Celsius to temperature in degrees
-# Fahrnheit
+# Fahrenheit
 # From Python Programming Chapter 2
 
 
